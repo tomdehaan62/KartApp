@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "44",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "113,165,218,260,312,360,443,525,601,676,751,823,891,966,1038,1107,1171,1236,1332,1398,1534,1646,1780,1870,1939,1973,2043,2116,2164",
+                        "endColumns": "51,52,41,51,47,82,81,75,74,74,71,67,74,71,68,63,64,95,65,135,111,133,89,68,33,69,72,47,45",
+                        "endOffsets": "160,213,255,307,355,438,520,596,671,746,818,886,961,1033,1102,1166,1231,1327,1393,1529,1641,1775,1865,1934,1968,2038,2111,2159,2205"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "102,154,207,249,301,349,432,514,590,665,740,812,880,955,1027,1096,1160,1225,1321,1387,1523,1635,1769,1859,1928,1962,2032,2105,2153",
+                        "endColumns": "51,52,41,51,47,82,81,75,74,74,71,67,74,71,68,63,64,95,65,135,111,133,89,68,33,69,72,47,45",
+                        "endOffsets": "149,202,244,296,344,427,509,585,660,735,807,875,950,1022,1091,1155,1220,1316,1382,1518,1630,1764,1854,1923,1957,2027,2100,2148,2194"
+                    }
+                },
+                {
+                    "source": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "32,34,37",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2199,2299,2437",
+                        "endLines": "33,36,40",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "2294,2432,2659"
+                    }
+                }
+            ]
+        }
+    ]
+}

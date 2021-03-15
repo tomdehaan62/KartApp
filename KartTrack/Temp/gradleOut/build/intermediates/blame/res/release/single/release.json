@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_app_banner.png.flat",
+        "source": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout_mio_activity_paylist.xml.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\layout\\mio_activity_paylist.xml"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_mio_img_title.png.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\drawable-xhdpi-v4\\mio_img_title.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_mio_btn_bg_click.png.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\drawable-xhdpi-v4\\mio_btn_bg_click.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_mio_btn_change_account_nor.png.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\drawable-xhdpi-v4\\mio_btn_change_account_nor.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon.png.flat",
+        "source": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_mio_btn_bg.png.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\drawable-xhdpi-v4\\mio_btn_bg.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_mio_icon_login_wait.png.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\drawable-xhdpi-v4\\mio_icon_login_wait.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_mio_list_item_single_bg_60_n.9.png.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\drawable-xhdpi-v4\\mio_list_item_single_bg_60_n.9.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_mio_list_item_single_bg_60_p.9.png.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\drawable-xhdpi-v4\\mio_list_item_single_bg_60_p.9.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_mio_mipay_payment_alipay.png.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\drawable-xhdpi-v4\\mio_mipay_payment_alipay.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_mio_mipay_payment_arrow.png.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\drawable-xhdpi-v4\\mio_mipay_payment_arrow.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_mio_mipay_payment_wx.png.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\drawable-xhdpi-v4\\mio_mipay_payment_wx.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout_mio_item_pay.xml.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\layout\\mio_item_pay.xml"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_mio_selector_mipayment_item.xml.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\drawable\\mio_selector_mipayment_item.xml"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_mio_pad_bg_float_win.png.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\drawable-xhdpi-v4\\mio_pad_bg_float_win.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_mio_btn_change_account_sel.png.flat",
+        "source": "C:\\Users\\tomde\\.gradle\\caches\\transforms-1\\files-1.1\\UnityChannel.aar\\d34673bac5073a72a84bd975bc54c09e\\res\\drawable-xhdpi-v4\\mio_btn_change_account_sel.png"
+    }
+]

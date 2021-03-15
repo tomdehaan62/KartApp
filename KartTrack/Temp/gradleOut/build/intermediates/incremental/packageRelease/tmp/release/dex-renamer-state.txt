@@ -1,0 +1,4 @@
+#Mon Mar 15 12:16:48 CET 2021
+base.0=D\:\\Unity\\KartTrack\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
